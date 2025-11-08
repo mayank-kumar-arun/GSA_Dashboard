@@ -1,4 +1,3 @@
-import React from "react";
 import { Chip } from "../ui/Chips";
 
 interface MultiChipsProps {

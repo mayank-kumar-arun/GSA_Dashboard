@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import { useState, useMemo } from "react";
 import { useDebounce } from "../../hooks/useDebounce";
 import { Chip } from "../ui/Chips";
 

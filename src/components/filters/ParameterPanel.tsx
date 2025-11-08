@@ -1,4 +1,3 @@
-import React from "react";
 import AgencyCombo from "./AgencyCombo";
 import KeywordInput from "./KeywordInput";
 import type { Filters } from "../../utils/filters";

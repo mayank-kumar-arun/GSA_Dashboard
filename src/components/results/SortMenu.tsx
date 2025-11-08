@@ -1,5 +1,3 @@
-import React from "react";
-
 interface SortMenuProps {
   sort: string;
   setSort: (v: string) => void;

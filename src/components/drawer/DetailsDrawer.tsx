@@ -1,4 +1,3 @@
-import React from "react";
 import { relativeDate } from "../../utils/date";
 import type { Application, Status } from "../../data/application";
 import { Chip } from "../ui/Chips";

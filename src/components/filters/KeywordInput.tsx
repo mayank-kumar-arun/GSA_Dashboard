@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Chip } from "../ui/Chips";
 
 interface KeywordInputProps {

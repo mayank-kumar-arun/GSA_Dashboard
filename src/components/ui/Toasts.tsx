@@ -1,4 +1,4 @@
-import React from "react";
+
 
 export function Toasts({ toasts }: { toasts: { id: number; msg: string }[] }) {
   return (

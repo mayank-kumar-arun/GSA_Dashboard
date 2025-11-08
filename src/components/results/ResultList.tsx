@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import { useMemo } from "react";
 import ResultCard from "./ResultCard";
 import SortMenu from "./SortMenu";
 import type { Application } from "../../data/application";

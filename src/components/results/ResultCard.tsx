@@ -1,4 +1,3 @@
-import React from "react";
 import { relativeDate } from "../../utils/date";
 import ProgressBar from "../dashboard/ProgressBar";
 import type { Application } from "../../data/application";

@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import { useMemo } from "react";
 import ProgressBar from "./ProgressBar";
 import DonutChart from "./DonutChart";
 import type { Application, Status } from "../../data/application";
