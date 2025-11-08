@@ -8,14 +8,13 @@ It provides an interactive, responsive UI with full theme support, state persist
 | **Filter Panel**                    | Filter by NAICS, Agency, Vehicle, Set-Aside, Date Range, Ceiling & Keywords. |
 | **Dynamic Filter Options**          | Drop-down choices are auto-derived from the dataset.                         |
 | **Save & Load Presets**             | Store custom filter configurations in `localStorage`.                        |
-| **Auto-Persist Filters**            | Reloading the page restores applied filters and  results.                    |
+| **Auto-Persist Filters**            | Reloading the page restores applied filters and results.                     |
 | **Dashboard Metrics**               | Donut chart, avg progress, total value, next due date.                       |
 | **Results List**                    | Sort by due date, % complete, or fit score.                                  |
 | **Details Drawer**                  | Slide-in detail panel with stage timeline and actions.                       |
 | **Mark as Submitted Action**        | Updates record and UI state.                                                 |
 | **Light/Dark Theme**                | Controlled via `data-theme` attribute + toggle button.                       |
 | **Toast Notifications**             | Themed success, warning, info, and error messages.                           |
-
 
 | Layer             | Tools                                        |
 | ----------------- | -------------------------------------------- |
@@ -25,12 +24,14 @@ It provides an interactive, responsive UI with full theme support, state persist
 | State Persistence | `localStorage`                               |
 | Build System      | Vite                                         |
 
-
 🚀 Setup & Run
+
 1. Install Dependencies
-npm install
+   npm install
 
 2. Run Dev Server
-npm run dev
+   npm run dev
 
 3. Open in Browser
+
+Note: If i had more time i will enhance the look and feel of UI . Work on Extra Ponits like - Quick Filter , CSV Export , Multi Select
